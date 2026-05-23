@@ -1,0 +1,33 @@
+Component,Ref,Subsystem,Qty,Specification,Material,India Source,Approx INR,Notes
+Base frame chassis,20,A,1,2120 x 600 x 85-95 mm rectangular frame,Mild steel / powder coated,Local metal fabrication shop,3000-5000,Have fabricated locally from steel box section
+Fixed kneeling pad,12,A,1,460 x 600 x 40 mm,High-density EVA foam + PU cover,Amazon India / foam supplier,400-600,Minimum 30mm foam thickness
+Adjustable levelling feet,23,A,4,10-25 mm adjustment range,Steel and rubber,Amazon India / hardware,200-400,M10 thread recommended
+Side access panels,25,A,2,Sheet metal cover panels,Mild steel / powder coated,Local fabrication,200-300,Removable for KRS maintenance
+Longitudinal channel rails,17,B,2,"~1400 mm length, U-channel profile",Anodised aluminium alloy,Industrial aluminium supplier,800-1200,Must match castor wheel width
+Sliding platform deck,13,B,1,700 x 500 x 30 mm,Anodised aluminium composite panel or plywood,Aluminium supplier / hardware,600-900,
+Sealed ball-bearing castors,16,B,6,"40 mm dia, 2RS sealed, PU tread, 80 kg dynamic each",Polyurethane on sealed bearing,Amazon India / bearing supplier Robu.in,600-900,Search: 40mm PU castor sealed bearing
+Forearm support pads,14,B,2,250 x 120 x 40 mm each,Closed-cell EVA foam,Amazon India / foam supplier,300-400,
+Hand contact surface pad,15,B,1,260 x 600 x 40 mm,High-density EVA foam + anti-slip PU cover,Amazon India / foam supplier,300-400,
+Quick-release locking knob,18,B,2,M8 or M10 thread,Glass-filled nylon,Amazon India / hardware,150-250,
+Front rubber bumper,22,B,1,~50 x 50 x 30 mm,Natural rubber block,Hardware shop,100-150,
+Rear travel stop,21,B,1,Adjustable bolt or block,Steel,Hardware shop,50-100,
+Extension spring (C1),261,C,2,"300-400 mm extended, 15-25 kg pull rated",High carbon steel,Amazon India / industrial spring supplier,300-500,Interchangeable for different user weights
+Adjustable anchor pin (C1),262,C,2,M10 bolt with multiple hole positions in chassis,Steel,Hardware shop,50-100,Pre-drill chassis with 5-6 hole positions
+Fixed anchor bracket (C1),263,C,2,Welded eye-bolt bracket,Steel,Local fabrication / hardware,100-150,Weld to underside of sliding platform
+Gas strut cylinder (C2 alt),264,C,2,"200-400 N rated, 250-300 mm stroke",Steel / painted,Amazon India / auto parts shop,1500-2500,Alternative to C1; smoother force profile
+Oblong pivot matrix (C2 alt),266,C,2,Slotted aluminium bracket,Aluminium alloy,Local fabrication,200-300,
+Vertical support rails,11,D,2,"~720 mm height, 25 mm OD tube, height-adjustable",Aluminium alloy 6061-T6 / powder coated,Local aluminium supplier,1000-1500,
+Rail base brackets,30,D,2,Mounting bracket with bolt holes,Mild steel / powder coated,Local fabrication,300-400,
+Crossbar (rail top connector),31,D,1,"600 mm length, 25 mm OD",Aluminium alloy,Local aluminium supplier,200-300,
+Rail grips,19,D,2,"~150 mm length, 25 mm ID",Thermoplastic rubber (TPE),Amazon India (bicycle grips work),100-200,Standard 25mm handlebar grips
+Pin-locking adjustment matrix,32,D,4,M6 or M8 through-pin with spring clip,Stainless steel,Hardware shop,150-200,Drill holes at 50mm intervals in rail tube
+Arduino Nano (optional counter),44,E,1,ATmega328P or equivalent,Electronics,Amazon India Robu.in,250-350,Optional
+Force-sensitive resistor,42,E,1,"FSR 400 or 402 series, 40-60mm dia",Electronics,Robu.in / Amazon India,150-200,Embed under kneeling pad foam
+4-digit 7-segment display,46,E,1,Common cathode or anode LED,Electronics,Robu.in / Amazon India,80-120,
+Li-Po battery,--,E,1,3.7V 2000 mAh with charging circuit,Electronics,Amazon India,200-300,
+Project enclosure for electronics,--,E,1,ABS plastic project box,Plastic,Amazon India,100-150,
+Misc fasteners (M6 M8 bolts nuts washers),--,All,lot,Metric standard,Stainless steel preferred,Local hardware shop,300-500,
+Rubber anti-slip feet (base),--,A,4,40mm dia adhesive rubber,Rubber,Hardware shop / Amazon India,100-150,Additional floor grip
+Paint / powder coat (frame),--,A,lot,Matte black or dark grey,Steel primer + topcoat,Hardware shop,300-500,Or send to local powder coat shop
+TOTAL C1 BUILD (excl. labour),,,,,,,6600-10500,Add ~Rs 1000-2000 for local fabrication labour
+TOTAL C2 BUILD (excl. labour),,,,,,,9000-14000,Gas struts replace springs; add strut cost
