@@ -1,21 +1,44 @@
-MIT License
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
 
-Copyright (c) 2026 Joy Bose
+CERN-OHL-S v2
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright Joy Bose, 2026.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Changes:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2026-05-23: Initial release v1.0
+
+                                                             ---
+
+Preamble
+
+CERN has developed this licence to promote collaboration among
+hardware designers and to provide a legal tool which supports the
+freedom to use, study, modify, make and distribute hardware designs
+and products based on those designs.
+
+Version 2 of the CERN Open Hardware Licence comes in three variants:
+CERN-OHL-P (permissive); and two reciprocal licences: this licence,
+CERN-OHL-S (strongly reciprocal), and CERN-OHL-W (weakly reciprocal).
+
+The full licence text is available at:
+https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
+
+Summary of key conditions:
+
+1. You may use, copy, modify and distribute this hardware design and
+   products made from it, for any purpose, commercially or not.
+
+2. If you distribute modified versions of the design, or products
+   made from modified designs, you must:
+   - Release the modified design under this same licence (CERN-OHL-S v2)
+   - Make all design source files available
+   - Clearly indicate what you have changed
+
+3. You must retain all copyright, licence, and attribution notices.
+
+4. Attribution: Joy Bose, 2026. Assisted Prostration Device (APD).
+   github.com/[username]/apd-prostration-device
+
+For the complete licence text, see:
+https://ohwr.org/cern_ohl_s_v2.txt
