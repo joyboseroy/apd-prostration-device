@@ -4,8 +4,8 @@
 
 [![Licence: CERN OHL-S v2](https://img.shields.io/badge/Licence-CERN%20OHL--S%20v2-blue)](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
 [![Version](https://img.shields.io/badge/Version-1.0.0-green)]()
-[![OSF DOI](https://img.shields.io/badge/OSF-DOI%20pending-lightgrey)]()
-[![Zenodo DOI](https://img.shields.io/badge/Zenodo-DOI%20pending-lightgrey)]()
+[![OSF DOI](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FMQYP6-blue)](https://doi.org/10.17605/OSF.IO/MQYP6)
+[![Zenodo DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.20351494-blue)](https://doi.org/10.5281/zenodo.20351494)
 
 ---
 
@@ -181,8 +181,8 @@ Full licence text: [ohwr.org/project/cernohl](https://ohwr.org/project/cernohl/w
 
 This design is publicly disclosed as open hardware to prevent patent enclosure. Timestamped records:
 
-- **OSF:** [DOI to be added after deposit]
-- **Zenodo:** [DOI to be added after deposit]
+- **OSF:** https://doi.org/10.17605/OSF.IO/MQYP6
+- **Zenodo:** https://doi.org/10.5281/zenodo.20351494
 
 These records establish prior art. No one may patent this design or any design that does not substantially differ from it.
 
